@@ -1,0 +1,1 @@
+# Linear-Trend-Seasonality-Model-with-Forecasting
